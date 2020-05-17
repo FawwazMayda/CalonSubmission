@@ -1,6 +1,16 @@
 //: [Previous](@previous)
 
 /*:
+ 
+ # Structure 💻
+ - About this playground 🧒
+ - Introduction 🤔
+ - Playground Introduction ✍️
+ 
+# About this Playground
+ This idea behind this playground is to make it easier for children to learn writing numbers with the help of technology. I use CoreML/Vision and MNIST to support students in the learning process and to explore and demonstrate new and modern ways of teaching.
+ 
+ Besides of that this Playground is intented to anyone who really into Computer Science, in which I attempt to explain about Binary Number Systems used in modern day computer. 
 # Introduction
 ## Our Computer is basically a computing Machine
 ### Referring to [Wikipedia](https://en.wikipedia.org/wiki/Computer)

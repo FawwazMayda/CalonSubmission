@@ -223,7 +223,7 @@ public class CanvasView: UIView {
     }
     
     override public func touchesEnded(_ touches: Set<UITouch>, with event: UIEvent?) {
-        print("Touches Ended from Canvas")
+        //print("Touches Ended from Canvas")
         detectTapped()
     }
     public func configure() {
@@ -233,7 +233,7 @@ public class CanvasView: UIView {
         layer.shadowOffset = CGSize(width: 0, height: 3)
         layer.shadowRadius = 3
         layer.shadowOpacity = 0.16
-        print("Making Canvas")
+        //print("Making Canvas")
         canvasG = {
             let canvas = Canvas(frame: CGRect(x: 15, y: 15, width: frame.width, height: frame.height - 100))
             canvas.isUserInteractionEnabled = true
